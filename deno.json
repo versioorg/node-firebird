@@ -1,0 +1,5 @@
+{
+    "name": "@versioorg/node-firebird",
+    "version": "1.1.9",
+    "exports": "./lib/index.js"
+}
