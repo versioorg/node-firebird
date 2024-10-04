@@ -1,5 +1,5 @@
 {
-    "name": "node-firebird",
+    "name": "versioorg-node-firebird",
     "version": "1.1.9",
     "description": "Pure JavaScript and Asynchronous Firebird client for Node.js.",
     "keywords": [
@@ -8,10 +8,10 @@
         "rdbms",
         "sql"
     ],
-    "homepage": "https://github.com/hgourvest/node-firebird",
+    "homepage": "https://github.com/versioorg/node-firebird",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/hgourvest/node-firebird.git"
+        "url": "git+https://github.com/versioorg/node-firebird.git"
     },
     "author": {
         "name": "Henri Gourvest",
